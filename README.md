@@ -1,0 +1,2 @@
+# aspnet-core-MgBooks
+Application
